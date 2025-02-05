@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.daily.app.debug",
+               "sha256_cert_fingerprints": ["40:61:8C:FC:53:24:91:11:05:99:A2:B5:2C:C4:3C:FB:E5:46:A8:CE:71:72:78:B1:0E:DA:5F:9D:55:B4:13:E9"] }
+}]
